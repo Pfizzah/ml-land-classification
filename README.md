@@ -23,8 +23,8 @@ The SVM ensemble achieved the best generalisation performance compared to KNN an
 ![SVM](SVM.png)
 
 ### Models
-![Comparison](DCN.png)
-![Comparison2](DCNAugmentation.png)
+![KNN](KNN.png)
+![rfc](RFC.png)
 
 ## Tech Stack
 - Python
